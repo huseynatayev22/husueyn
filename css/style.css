@@ -1,0 +1,47 @@
+#header {
+  background: #79b879;
+}
+
+#header .icon {
+  margin-top: 9px;
+  margin-left: 35vh;
+}
+
+#header .icon i {
+  margin: 10px;
+}
+
+#header .box {
+  margin: 10px;
+}
+
+#header .box p {
+  margin-left: 30px;
+}
+
+#header2 .button {
+  margin-left: 38vh;
+  margin-top: 60px;
+}
+
+#header2 .button button {
+  height: 50px;
+}
+
+#header2 .menu .menu2 {
+  margin-top: 65px;
+  margin-left: 23vh;
+}
+
+#header2 .menu .menu2 li {
+  margin-left: 30px;
+}
+
+#header2 .logo {
+  margin-top: 40px;
+}
+
+#header2 .logo img {
+  height: 70px;
+}
+/*# sourceMappingURL=style.css.map */
